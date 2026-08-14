@@ -14,7 +14,7 @@
             "last_commit": "2026-08-07T20:42:17Z",
             "owner": "dotnet",
             "repo": "eShop",
-            "stars": 10772
+            "stars": 10773
           }
         },
         {
@@ -197,7 +197,7 @@
             "last_commit": "2026-08-11T17:05:12Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28444
+            "stars": 28448
           }
         },
         {
@@ -267,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:08:38.416Z",
+    "last_updated": "2026-08-14T10:04:26.304Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
     "enhanced_repository": "enhansome/enhansome-dotnet-ai-resources",
