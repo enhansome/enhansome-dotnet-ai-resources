@@ -14,7 +14,7 @@
             "last_commit": "2026-08-07T20:42:17Z",
             "owner": "dotnet",
             "repo": "eShop",
-            "stars": 10773
+            "stars": 10775
           }
         },
         {
@@ -160,7 +160,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T12:23:06Z",
+            "last_commit": "2026-08-14T16:25:20Z",
             "owner": "dotnet",
             "repo": "extensions",
             "stars": 3194
@@ -174,7 +174,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T12:23:06Z",
+            "last_commit": "2026-08-14T16:25:20Z",
             "owner": "dotnet",
             "repo": "extensions",
             "stars": 3194
@@ -197,7 +197,7 @@
             "last_commit": "2026-08-11T17:05:12Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28448
+            "stars": 28449
           }
         },
         {
@@ -228,7 +228,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T10:00:33Z",
+            "last_commit": "2026-08-14T19:17:12Z",
             "owner": "redis",
             "repo": "NRedisStack",
             "stars": 327
@@ -267,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:04:26.304Z",
+    "last_updated": "2026-08-15T09:27:31.303Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
     "enhanced_repository": "enhansome/enhansome-dotnet-ai-resources",
