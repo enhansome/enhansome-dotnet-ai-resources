@@ -14,7 +14,7 @@
             "last_commit": "2026-08-07T20:42:17Z",
             "owner": "dotnet",
             "repo": "eShop",
-            "stars": 10779
+            "stars": 10782
           }
         },
         {
@@ -160,10 +160,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T05:03:48Z",
+            "last_commit": "2026-08-17T14:04:27Z",
             "owner": "dotnet",
             "repo": "extensions",
-            "stars": 3197
+            "stars": 3198
           }
         },
         {
@@ -174,10 +174,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-17T05:03:48Z",
+            "last_commit": "2026-08-17T14:04:27Z",
             "owner": "dotnet",
             "repo": "extensions",
-            "stars": 3197
+            "stars": 3198
           }
         }
       ],
@@ -194,10 +194,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-11T17:05:12Z",
+            "last_commit": "2026-08-18T09:12:40Z",
             "owner": "microsoft",
             "repo": "semantic-kernel",
-            "stars": 28460
+            "stars": 28459
           }
         },
         {
@@ -211,7 +211,7 @@
             "last_commit": "2024-08-06T01:19:53Z",
             "owner": "microsoft",
             "repo": "SemanticKernelCookBook",
-            "stars": 316
+            "stars": 317
           }
         }
       ],
@@ -228,10 +228,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T19:17:12Z",
+            "last_commit": "2026-08-17T19:41:20Z",
             "owner": "redis",
             "repo": "NRedisStack",
-            "stars": 327
+            "stars": 328
           }
         },
         {
@@ -267,7 +267,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:43:11.118Z",
+    "last_updated": "2026-08-18T09:35:01.273Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
     "enhanced_repository": "enhansome/enhansome-dotnet-ai-resources",
