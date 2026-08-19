@@ -1,273 +1,338 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "eShop Reference Application",
+              "description": "An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 706944893,
+                "language": "C#",
+                "last_commit": "2026-08-18T20:03:17Z",
+                "owner": "dotnet",
+                "repo": "eShop",
+                "stars": 10780
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Azure Search with OpenAI - C# Sample",
+              "description": "Documentation | Announcement Post ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 624102171,
+                "language": "C#",
+                "last_commit": "2025-07-29T20:22:37Z",
+                "owner": "Azure-Samples",
+                "repo": "azure-search-openai-demo-csharp",
+                "stars": 839
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "eShopSupport",
+              "description": "A sample customer support application for the eShop eCommerce solution. This sample demonstrates a variety of AI features: data generation, sentiment analysis, entity extraction, summarization, classification, as well as chat interactions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 794031785,
+                "language": "JavaScript",
+                "last_commit": "2025-05-16T16:27:15Z",
+                "owner": "dotnet",
+                "repo": "eShopSupport",
+                "stars": 654
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Reference Applications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Using Llama2 with TorchSharp",
+              "description": "This sample shows how to use the Llama2 model from your local system, using .NET with the help of the TorchSharp library.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 746329717,
+                "language": "C#",
+                "last_commit": "2024-08-29T18:11:40Z",
+                "owner": "LittleLittleCloud",
+                "repo": "Torchsharp-llama",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Using Phi2 with TorchSharp",
+              "description": "A sample demonstrating how to access the Phi2 model in your local system, using .NET with the help of the TorchSharp library.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 749281112,
+                "language": "C#",
+                "last_commit": "2024-08-22T22:21:53Z",
+                "owner": "LittleLittleCloud",
+                "repo": "Torchsharp-phi",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Working with Local Models"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Vector Search AI Assistant",
+              "description": "Demo app showing how to combine data from CosmosDB, with Azure OpenAI Services and queries against cognitive search to create an AI search assistant.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 684218540,
+                "language": "C#",
+                "last_commit": "2024-12-01T11:42:50Z",
+                "owner": "Azure",
+                "repo": "Vector-Search-AI-Assistant",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Samples for Retrieval Augmented Generation on Azure",
+              "description": "Includes many examples in C# showing how to work with CosmosDB + MongoDB or NoSQL.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 654251502,
+                "language": "Jupyter Notebook",
+                "last_commit": "2025-10-14T14:56:31Z",
+                "owner": "microsoft",
+                "repo": "AzureDataRetrievalAugmentedGenerationSamples",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vector Search AI Assistant with MongoDB",
+              "description": "Demo app showing how to combine data from Azure CosmosDB for MongoDB, with queries against Azure OpenAI Services.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 707329298,
+                "language": "C#",
+                "last_commit": "2024-04-21T15:33:00Z",
+                "owner": "Azure",
+                "repo": "Vector-Search-AI-Assistant-MongoDBvCore",
+                "stars": 109
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AugmentR",
+              "description": "An example chat bot demonstrating the use of Semantic Kernel in a .NET Aspire project, augmenting chats with data from public internet URLs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 727607501,
+                "language": "C#",
+                "last_commit": "2024-03-29T22:56:05Z",
+                "owner": "bradygaster",
+                "repo": "AugmentR",
+                "stars": 54
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Working with Data"
+        }
+      ],
+      "title": "Tutorials and Samples"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Microsoft.Extensions.AI Source on GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30932325,
+                "language": "C#",
+                "last_commit": "2026-08-18T23:17:06Z",
+                "owner": "dotnet",
+                "repo": "extensions",
+                "stars": 3198
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Samples for Microsoft.Extensions.AI",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30932325,
+                "language": "C#",
+                "last_commit": "2026-08-18T23:17:06Z",
+                "owner": "dotnet",
+                "repo": "extensions",
+                "stars": 3198
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Microsoft.Extensions.AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Semantic Kernel Source on GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 607289185,
+                "language": "C#",
+                "last_commit": "2026-08-18T15:00:22Z",
+                "owner": "microsoft",
+                "repo": "semantic-kernel",
+                "stars": 28463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Semantic Kernel Cookbook",
+              "description": "A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 743328418,
+                "language": "Jupyter Notebook",
+                "last_commit": "2024-08-06T01:19:53Z",
+                "owner": "microsoft",
+                "repo": "SemanticKernelCookBook",
+                "stars": 317
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Semantic Kernel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NRedis Stack .NET SDK",
+              "description": "A .NET SDK for working with Redis Enterprise for Vector Similarity Search",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 515208425,
+                "language": "C#",
+                "last_commit": "2026-08-17T19:41:20Z",
+                "owner": "redis",
+                "repo": "NRedisStack",
+                "stars": 328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Qdrant .NET SDK",
+              "description": "SDK for working with the Qdrant vector DB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 665462497,
+                "language": "C#",
+                "last_commit": "2026-08-04T14:20:02Z",
+                "owner": "qdrant",
+                "repo": "qdrant-dotnet",
+                "stars": 227
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Weaviate",
+              "description": "[Unofficial] Community supported SDK for using the Weaviate vector DB.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 675423943,
+                "language": "C#",
+                "last_commit": "2024-02-18T11:52:31Z",
+                "owner": "Unipisa",
+                "repo": "WeaviateNET",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vector Store SDKs"
+        }
+      ],
+      "title": "SDKs"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "eShop Reference Application",
-          "description": "An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.",
+          "title": "Azure OpenAI Service Samples",
+          "description": "Sample notebooks demonstrating how to use the Azure OpenAI SDK, with may samples in C#/.NET as Polyglot Notebooks.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-07T20:42:17Z",
-            "owner": "dotnet",
-            "repo": "eShop",
-            "stars": 10782
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Azure Search with OpenAI - C# Sample",
-          "description": "Documentation | Announcement Post ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2025-07-29T20:22:37Z",
+            "id": 624506415,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-20T20:00:57Z",
             "owner": "Azure-Samples",
-            "repo": "azure-search-openai-demo-csharp",
-            "stars": 839
+            "repo": "openai",
+            "stars": 1341
           }
         },
         {
           "node_type": "item",
-          "title": "eShopSupport",
-          "description": "A sample customer support application for the eShop eCommerce solution. This sample demonstrates a variety of AI features: data generation, sentiment analysis, entity extraction, summarization, classification, as well as chat interactions.",
+          "title": "Azure Functions bindings for OpenAI's GPT engine",
+          "description": "[In Development] Very early review of new OpenAI bindings in Azure Functions, including support for C#.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-16T16:27:15Z",
-            "owner": "dotnet",
-            "repo": "eShopSupport",
-            "stars": 654
-          }
-        }
-      ],
-      "title": "Reference Applications"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Using Llama2 with TorchSharp",
-          "description": "This sample shows how to use the Llama2 model from your local system, using .NET with the help of the TorchSharp library.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
+            "id": 718707177,
             "language": "C#",
-            "last_commit": "2024-08-29T18:11:40Z",
-            "owner": "LittleLittleCloud",
-            "repo": "Torchsharp-llama",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Using Phi2 with TorchSharp",
-          "description": "A sample demonstrating how to access the Phi2 model in your local system, using .NET with the help of the TorchSharp library.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2024-08-22T22:21:53Z",
-            "owner": "LittleLittleCloud",
-            "repo": "Torchsharp-phi",
-            "stars": 10
-          }
-        }
-      ],
-      "title": "Working with Local Models"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Vector Search AI Assistant",
-          "description": "Demo app showing how to combine data from CosmosDB, with Azure OpenAI Services and queries against cognitive search to create an AI search assistant.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-12-01T11:42:50Z",
+            "last_commit": "2026-08-17T00:20:42Z",
             "owner": "Azure",
-            "repo": "Vector-Search-AI-Assistant",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Samples for Retrieval Augmented Generation on Azure",
-          "description": "Includes many examples in C# showing how to work with CosmosDB + MongoDB or NoSQL.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2025-10-14T14:56:31Z",
-            "owner": "microsoft",
-            "repo": "AzureDataRetrievalAugmentedGenerationSamples",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Vector Search AI Assistant with MongoDB",
-          "description": "Demo app showing how to combine data from Azure CosmosDB for MongoDB, with queries against Azure OpenAI Services.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C#",
-            "last_commit": "2024-04-21T15:33:00Z",
-            "owner": "Azure",
-            "repo": "Vector-Search-AI-Assistant-MongoDBvCore",
-            "stars": 109
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AugmentR",
-          "description": "An example chat bot demonstrating the use of Semantic Kernel in a .NET Aspire project, augmenting chats with data from public internet URLs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-03-29T22:56:05Z",
-            "owner": "bradygaster",
-            "repo": "AugmentR",
-            "stars": 54
+            "repo": "azure-functions-openai-extension",
+            "stars": 101
           }
         }
       ],
-      "title": "Working with Data"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Include AI in different workloads/app types"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Microsoft.Extensions.AI Source on GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T14:04:27Z",
-            "owner": "dotnet",
-            "repo": "extensions",
-            "stars": 3198
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Samples for Microsoft.Extensions.AI",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T14:04:27Z",
-            "owner": "dotnet",
-            "repo": "extensions",
-            "stars": 3198
-          }
-        }
-      ],
-      "title": "Microsoft.Extensions.AI"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Semantic Kernel Source on GitHub",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T09:12:40Z",
-            "owner": "microsoft",
-            "repo": "semantic-kernel",
-            "stars": 28459
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Semantic Kernel Cookbook",
-          "description": "A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jupyter Notebook",
-            "last_commit": "2024-08-06T01:19:53Z",
-            "owner": "microsoft",
-            "repo": "SemanticKernelCookBook",
-            "stars": 317
-          }
-        }
-      ],
-      "title": "Semantic Kernel"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NRedis Stack .NET SDK",
-          "description": "A .NET SDK for working with Redis Enterprise for Vector Similarity Search",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-17T19:41:20Z",
-            "owner": "redis",
-            "repo": "NRedisStack",
-            "stars": 328
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Qdrant .NET SDK",
-          "description": "SDK for working with the Qdrant vector DB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-04T14:20:02Z",
-            "owner": "qdrant",
-            "repo": "qdrant-dotnet",
-            "stars": 227
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Weaviate",
-          "description": "[Unofficial] Community supported SDK for using the Weaviate vector DB.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2024-02-18T11:52:31Z",
-            "owner": "Unipisa",
-            "repo": "WeaviateNET",
-            "stars": 15
-          }
-        }
-      ],
-      "title": "Vector Store SDKs"
+      "title": "AI Services"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T09:35:01.273Z",
+    "last_updated": "2026-08-19T09:35:55.744Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
     "enhanced_repository": "enhansome/enhansome-dotnet-ai-resources",
