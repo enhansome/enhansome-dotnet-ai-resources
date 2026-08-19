@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T20:03:17Z",
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10780
+                "stars": 10781
               }
             },
             {
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-18T23:17:06Z",
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3198
+                "stars": 3199
               }
             },
             {
@@ -194,7 +194,7 @@
                 "last_commit": "2026-08-18T23:17:06Z",
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3198
+                "stars": 3199
               }
             }
           ],
@@ -332,8 +332,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:35:55.744Z",
+    "last_updated": "2026-08-19T12:25:09.742Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
+    "original_repository_id": 752123304,
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
     "enhanced_repository": "enhansome/enhansome-dotnet-ai-resources",
     "enhanced_repository_description": null,
