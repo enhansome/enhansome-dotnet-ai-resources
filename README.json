@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T20:03:17Z",
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10784
+                "stars": 10788
               }
             },
             {
@@ -216,7 +216,7 @@
                 "last_commit": "2026-08-21T02:44:34Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28474
+                "stars": 28477
               }
             },
             {
@@ -250,7 +250,7 @@
                 "archived": false,
                 "id": 515208425,
                 "language": "C#",
-                "last_commit": "2026-08-20T13:44:40Z",
+                "last_commit": "2026-08-21T12:03:49Z",
                 "owner": "redis",
                 "repo": "NRedisStack",
                 "stars": 328
@@ -332,7 +332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T09:38:03.868Z",
+    "last_updated": "2026-08-22T09:27:55.194Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_id": 752123304,
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
