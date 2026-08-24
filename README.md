@@ -4,7 +4,7 @@
 
 Interested in working with AI in .NET? Here's a collection of samples, tutorials, SDKs, and videos to help you get started and go deeper. Topics covered currently include generative artificial intelligence (GenAI) and large language models (LLMs).
 
-Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,417 | 🐛 133 | 📅 2024-05-21, [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,302 | 🐛 0 | 📅 2026-04-09, [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,138 | 🐛 26 | 🌐 Python | 📅 2026-08-21, [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,528 | 🐛 604 | 📅 2026-08-03 and [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,574 | 🐛 139 | 📅 2026-03-26.
+Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,421 | 🐛 133 | 📅 2024-05-21, [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,302 | 🐛 0 | 📅 2026-04-09, [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,142 | 🐛 26 | 🌐 Python | 📅 2026-08-21, [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,529 | 🐛 605 | 📅 2026-08-03 and [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,574 | 🐛 139 | 📅 2026-03-26.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard pages first](CONTRIBUTING.md). If you find issues with the content/links here, you can also [report them](https://github.com/jmatthiesen/dotnet-ai-resources/issues) ⭐ 145 | 🐛 3 | 📅 2025-02-14. If you have general feedback, or have a request for a specific sample, feel free to ask in the [Discussions](https://github.com/jmatthiesen/dotnet-ai-resources/discussions) ⭐ 145 | 🐛 3 | 📅 2025-02-14 section as well.
 
@@ -57,7 +57,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Reference Applications
 
-* [eShop Reference Application](https://github.com/dotnet/eShop/) ⭐ 10,790 | 🐛 186 | 🌐 C# | 📅 2026-08-18 - An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.
+* [eShop Reference Application](https://github.com/dotnet/eShop/) ⭐ 10,791 | 🐛 186 | 🌐 C# | 📅 2026-08-18 - An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.
 * [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) ⭐ 841 | 🐛 72 | 🌐 C# | 📅 2025-07-29 - [Documentation](https://learn.microsoft.com/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces) | [Announcement Post](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET)
 * [eShopSupport](https://github.com/dotnet/eShopSupport) ⭐ 656 | 🐛 21 | 🌐 JavaScript | 📅 2025-05-16 - A sample customer support application for the eShop eCommerce solution. This sample demonstrates a variety of AI features: data generation, sentiment analysis, entity extraction, summarization, classification, as well as chat interactions.
 
@@ -86,9 +86,9 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Using Assistants/Agents
 
-* [Getting started using Azure OpenAI Assistants with C#](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line\&pivots=programming-language-csharp) - **\[Pre-release]** A walkthrough showing how to use AI assistants with the Azure OpenAI SDK and C#.
-
 * [AntRunner](https://github.com/douglasware/antrunner) ⭐ 18 | 🐛 0 | 🌐 C# | 📅 2026-01-05 - A complete set of .NET tools for creating and using Open AI and Azure Open AI Assistants with support for vector stores, code interpreter files, and function calling with local .NET functions and REST APIs with auth.
+
+* [Getting started using Azure OpenAI Assistants with C#](https://learn.microsoft.com/en-us/azure/ai-services/openai/assistants-quickstart?tabs=command-line\&pivots=programming-language-csharp) - **\[Pre-release]** A walkthrough showing how to use AI assistants with the Azure OpenAI SDK and C#.
 
 ## Include AI in different workloads/app types
 
@@ -133,7 +133,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Semantic Kernel
 
-* [Semantic Kernel Source on GitHub](https://github.com/microsoft/semantic-kernel) ⭐ 28,485 | 🐛 262 | 🌐 C# | 📅 2026-08-21
+* [Semantic Kernel Source on GitHub](https://github.com/microsoft/semantic-kernel) ⭐ 28,489 | 🐛 263 | 🌐 C# | 📅 2026-08-21
 * [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) ⭐ 318 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-08-06 - A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.
 * [Overview - Semantic Kernel](https://learn.microsoft.com/semantic-kernel/overview/) - A library built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
 
@@ -143,7 +143,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Vector Store SDKs
 
-* [NRedis Stack .NET SDK](https://github.com/redis/NRedisStack) ⭐ 328 | 🐛 8 | 🌐 C# | 📅 2026-08-24 - A .NET SDK for working with Redis Enterprise for Vector Similarity Search
+* [NRedis Stack .NET SDK](https://github.com/redis/NRedisStack) ⭐ 328 | 🐛 6 | 🌐 C# | 📅 2026-08-24 - A .NET SDK for working with Redis Enterprise for Vector Similarity Search
 * [Qdrant .NET SDK](https://github.com/qdrant/qdrant-dotnet) ⭐ 227 | 🐛 3 | 🌐 C# | 📅 2026-08-04 - SDK for working with the Qdrant vector DB.
 * [Weaviate](https://github.com/Unipisa/WeaviateNET) ⭐ 15 | 🐛 3 | 🌐 C# | 📅 2024-02-18 - **\[Unofficial]** Community supported SDK for using the Weaviate vector DB.
 * [Redis OM for .NET](https://redis.io/docs/latest/integrate/redisom-for-net/) - A .NET SDK for Redis Search, Object Mapping, and Semantic Caching

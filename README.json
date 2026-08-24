@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T20:03:17Z",
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10790
+                "stars": 10791
               }
             },
             {
@@ -153,11 +153,84 @@
                 "repo": "AugmentR",
                 "stars": 54
               }
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Build a Copilot app using Azure Cosmos DB, Azure OpenAI Service and Azure App Service",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 814748970,
+                    "language": "C#",
+                    "last_commit": "2025-10-15T12:06:11Z",
+                    "owner": "AzureCosmosDB",
+                    "repo": "cosmosdb-nosql-copilot",
+                    "stars": 113
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "CosmosDB + AI"
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Working with Data"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AntRunner",
+              "description": "A complete set of .NET tools for creating and using Open AI and Azure Open AI Assistants with support for vector stores, code interpreter files, and function calling with local .NET functions and REST APIs with auth.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 852569461,
+                "language": "C#",
+                "last_commit": "2026-01-05T16:45:16Z",
+                "owner": "Elumenotion",
+                "repo": "AntRunner",
+                "stars": 18
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Using Assistants/Agents"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "AI Chat App Quickstart using ASP.NET Core and a Blazor frontend",
+                  "description": "Includes support for working with OpenAI models, local models, models available through GitHub Models, and Azure AI Model Catalog.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 859582200,
+                    "language": "Bicep",
+                    "last_commit": "2024-10-21T13:49:20Z",
+                    "owner": "Azure-Samples",
+                    "repo": "ai-chat-quickstart-csharp",
+                    "stars": 12
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "ASP.NET Core"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Include AI in different workloads/app types"
         }
       ],
       "title": "Tutorials and Samples"
@@ -206,6 +279,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "OllamaSharp source and docs",
+              "description": "A library for working with Ollama to run AI models locally.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 705358800,
+                "language": "C#",
+                "last_commit": "2026-07-24T10:06:58Z",
+                "owner": "awaescher",
+                "repo": "OllamaSharp",
+                "stars": 1398
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OllamaSharp"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenAI SDK for .NET on GitHub",
+              "description": "Includes the source, documentation, and samples for working with the library.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 792072603,
+                "language": "C#",
+                "last_commit": "2026-08-24T09:19:39Z",
+                "owner": "openai",
+                "repo": "openai-dotnet",
+                "stars": 2674
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "OpenAI SDK"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Semantic Kernel Source on GitHub",
               "description": null,
               "children": [],
@@ -216,7 +333,7 @@
                 "last_commit": "2026-08-21T02:44:34Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28485
+                "stars": 28489
               }
             },
             {
@@ -243,6 +360,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "LangChain",
+              "description": "[Unofficial] - .NET implementation of the popular LangChain Python project. Note: Currently it's in an early state, and looking for contributors!",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 648854280,
+                "language": "C#",
+                "last_commit": "2026-07-17T21:25:33Z",
+                "owner": "tryAGI",
+                "repo": "LangChain",
+                "stars": 1069
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Orchestrators"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "NRedis Stack .NET SDK",
               "description": "A .NET SDK for working with Redis Enterprise for Vector Similarity Search",
               "children": [],
@@ -250,7 +389,7 @@
                 "archived": false,
                 "id": 515208425,
                 "language": "C#",
-                "last_commit": "2026-08-24T09:47:57Z",
+                "last_commit": "2026-08-24T12:48:42Z",
                 "owner": "redis",
                 "repo": "NRedisStack",
                 "stars": 328
@@ -332,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:49:50.737Z",
+    "last_updated": "2026-08-24T14:38:37.785Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_id": 752123304,
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
