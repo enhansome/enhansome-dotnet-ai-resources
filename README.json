@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 706944893,
                 "language": "C#",
-                "last_commit": "2026-08-18T20:03:17Z",
+                "last_commit": "2026-08-24T19:18:55Z",
                 "owner": "dotnet",
                 "repo": "eShop",
                 "stars": 10791
@@ -168,7 +168,7 @@
                     "last_commit": "2025-10-15T12:06:11Z",
                     "owner": "AzureCosmosDB",
                     "repo": "cosmosdb-nosql-copilot",
-                    "stars": 113
+                    "stars": 114
                   }
                 }
               ],
@@ -249,10 +249,10 @@
                 "archived": false,
                 "id": 30932325,
                 "language": "C#",
-                "last_commit": "2026-08-24T05:04:30Z",
+                "last_commit": "2026-08-24T18:38:49Z",
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3201
+                "stars": 3202
               }
             },
             {
@@ -264,10 +264,10 @@
                 "archived": false,
                 "id": 30932325,
                 "language": "C#",
-                "last_commit": "2026-08-24T05:04:30Z",
+                "last_commit": "2026-08-24T18:38:49Z",
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3201
+                "stars": 3202
               }
             }
           ],
@@ -308,7 +308,7 @@
                 "archived": false,
                 "id": 792072603,
                 "language": "C#",
-                "last_commit": "2026-08-24T09:19:39Z",
+                "last_commit": "2026-08-25T00:41:11Z",
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2674
@@ -333,7 +333,7 @@
                 "last_commit": "2026-08-21T02:44:34Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28489
+                "stars": 28493
               }
             },
             {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:38:37.785Z",
+    "last_updated": "2026-08-25T06:29:35.325Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_id": 752123304,
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
