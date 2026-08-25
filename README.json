@@ -308,7 +308,7 @@
                 "archived": false,
                 "id": 792072603,
                 "language": "C#",
-                "last_commit": "2026-08-25T00:41:11Z",
+                "last_commit": "2026-08-25T09:12:37Z",
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2674
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:35.325Z",
+    "last_updated": "2026-08-25T09:36:39.587Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_id": 752123304,
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",

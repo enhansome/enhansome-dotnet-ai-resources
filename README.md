@@ -4,7 +4,7 @@
 
 Interested in working with AI in .NET? Here's a collection of samples, tutorials, SDKs, and videos to help you get started and go deeper. Topics covered currently include generative artificial intelligence (GenAI) and large language models (LLMs).
 
-Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,422 | 🐛 133 | 📅 2024-05-21, [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,303 | 🐛 0 | 📅 2026-04-09, [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,148 | 🐛 26 | 🌐 Python | 📅 2026-08-24, [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,531 | 🐛 606 | 📅 2026-08-03 and [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,577 | 🐛 139 | 📅 2026-03-26.
+Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,420 | 🐛 133 | 📅 2024-05-21, [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,303 | 🐛 0 | 📅 2026-04-09, [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,149 | 🐛 27 | 🌐 Python | 📅 2026-08-24, [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,533 | 🐛 605 | 📅 2026-08-03 and [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,577 | 🐛 139 | 📅 2026-03-26.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard pages first](CONTRIBUTING.md). If you find issues with the content/links here, you can also [report them](https://github.com/jmatthiesen/dotnet-ai-resources/issues) ⭐ 145 | 🐛 3 | 📅 2025-02-14. If you have general feedback, or have a request for a specific sample, feel free to ask in the [Discussions](https://github.com/jmatthiesen/dotnet-ai-resources/discussions) ⭐ 145 | 🐛 3 | 📅 2025-02-14 section as well.
 
@@ -63,8 +63,8 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Working with Local Models
 
-* [Using Llama2 with TorchSharp](https://github.com/LittleLittleCloud/Torchsharp-llama) ⚠️ Archived - This sample shows how to use the Llama2 model from your local system, using .NET with the help of the [TorchSharp](https://github.com/dotnet/TorchSharp) ⭐ 1,848 | 🐛 80 | 🌐 C# | 📅 2026-07-03 library.
-* [Using Phi2 with TorchSharp](https://github.com/LittleLittleCloud/Torchsharp-phi) ⚠️ Archived - A sample demonstrating how to access the Phi2 model in your local system, using .NET with the help of the [TorchSharp](https://github.com/dotnet/TorchSharp) ⭐ 1,848 | 🐛 80 | 🌐 C# | 📅 2026-07-03 library.
+* [Using Llama2 with TorchSharp](https://github.com/LittleLittleCloud/Torchsharp-llama) ⚠️ Archived - This sample shows how to use the Llama2 model from your local system, using .NET with the help of the [TorchSharp](https://github.com/dotnet/TorchSharp) ⭐ 1,849 | 🐛 80 | 🌐 C# | 📅 2026-07-03 library.
+* [Using Phi2 with TorchSharp](https://github.com/LittleLittleCloud/Torchsharp-phi) ⚠️ Archived - A sample demonstrating how to access the Phi2 model in your local system, using .NET with the help of the [TorchSharp](https://github.com/dotnet/TorchSharp) ⭐ 1,849 | 🐛 80 | 🌐 C# | 📅 2026-07-03 library.
 
 ## Using Multi-modal Models
 
@@ -128,7 +128,7 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## OpenAI SDK
 
-* [OpenAI SDK for .NET on GitHub](https://github.com/openai/openai-dotnet) ⭐ 2,674 | 🐛 55 | 🌐 C# | 📅 2026-08-25 - Includes the source, documentation, and samples for working with the library.
+* [OpenAI SDK for .NET on GitHub](https://github.com/openai/openai-dotnet) ⭐ 2,674 | 🐛 56 | 🌐 C# | 📅 2026-08-25 - Includes the source, documentation, and samples for working with the library.
 * [Announcing the OpenAI Library for .NET](https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet/) - Announcement blog post shared on the .NET blog.
 
 ## Semantic Kernel
