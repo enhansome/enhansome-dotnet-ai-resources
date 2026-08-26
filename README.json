@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-24T19:18:55Z",
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10791
+                "stars": 10793
               }
             },
             {
@@ -289,7 +289,7 @@
                 "last_commit": "2026-07-24T10:06:58Z",
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
-                "stars": 1398
+                "stars": 1400
               }
             }
           ],
@@ -308,7 +308,7 @@
                 "archived": false,
                 "id": 792072603,
                 "language": "C#",
-                "last_commit": "2026-08-25T09:12:37Z",
+                "last_commit": "2026-08-25T22:58:40Z",
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2674
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 607289185,
                 "language": "C#",
-                "last_commit": "2026-08-21T02:44:34Z",
+                "last_commit": "2026-08-26T09:12:40Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28493
+                "stars": 28502
               }
             },
             {
@@ -370,7 +370,7 @@
                 "last_commit": "2026-07-17T21:25:33Z",
                 "owner": "tryAGI",
                 "repo": "LangChain",
-                "stars": 1069
+                "stars": 1070
               }
             }
           ],
@@ -448,7 +448,7 @@
             "last_commit": "2026-08-20T21:59:31Z",
             "owner": "Azure-Samples",
             "repo": "openai",
-            "stars": 1341
+            "stars": 1342
           }
         },
         {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T09:36:39.587Z",
+    "last_updated": "2026-08-26T09:43:02.325Z",
     "original_repository": "jmatthiesen/dotnet-ai-resources",
     "original_repository_id": 752123304,
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
