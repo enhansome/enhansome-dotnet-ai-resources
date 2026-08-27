@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 706944893,
                 "language": "C#",
-                "last_commit": "2026-08-26T15:11:34Z",
+                "last_commit": "2026-08-27T19:26:01Z",
                 "owner": "dotnet",
                 "repo": "eShop",
                 "stars": 10796
@@ -308,10 +308,10 @@
                 "archived": false,
                 "id": 792072603,
                 "language": "C#",
-                "last_commit": "2026-08-27T05:44:18Z",
+                "last_commit": "2026-08-27T19:12:21Z",
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2675
+                "stars": 2676
               }
             }
           ],
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 607289185,
                 "language": "C#",
-                "last_commit": "2026-08-26T16:41:58Z",
+                "last_commit": "2026-08-27T16:58:48Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28504
+                "stars": 28506
               }
             },
             {
@@ -471,7 +471,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:55.437Z",
+    "last_updated": "2026-08-27T19:39:34.720Z",
     "original_repository_info": {
       "archived": false,
       "id": 752123304,
