@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 706944893,
                 "language": "C#",
-                "last_commit": "2026-08-24T19:18:55Z",
+                "last_commit": "2026-08-26T15:11:34Z",
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10793
+                "stars": 10796
               }
             },
             {
@@ -249,7 +249,7 @@
                 "archived": false,
                 "id": 30932325,
                 "language": "C#",
-                "last_commit": "2026-08-24T18:38:49Z",
+                "last_commit": "2026-08-26T17:14:38Z",
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3202
@@ -264,7 +264,7 @@
                 "archived": false,
                 "id": 30932325,
                 "language": "C#",
-                "last_commit": "2026-08-24T18:38:49Z",
+                "last_commit": "2026-08-26T17:14:38Z",
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3202
@@ -308,10 +308,10 @@
                 "archived": false,
                 "id": 792072603,
                 "language": "C#",
-                "last_commit": "2026-08-25T22:58:40Z",
+                "last_commit": "2026-08-27T05:44:18Z",
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2674
+                "stars": 2675
               }
             }
           ],
@@ -330,10 +330,10 @@
                 "archived": false,
                 "id": 607289185,
                 "language": "C#",
-                "last_commit": "2026-08-26T09:12:40Z",
+                "last_commit": "2026-08-26T16:41:58Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28502
+                "stars": 28504
               }
             },
             {
@@ -392,7 +392,7 @@
                 "last_commit": "2026-08-24T12:48:42Z",
                 "owner": "redis",
                 "repo": "NRedisStack",
-                "stars": 328
+                "stars": 329
               }
             },
             {
@@ -448,7 +448,7 @@
             "last_commit": "2026-08-20T21:59:31Z",
             "owner": "Azure-Samples",
             "repo": "openai",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -471,9 +471,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:43:02.325Z",
-    "original_repository": "jmatthiesen/dotnet-ai-resources",
-    "original_repository_id": 752123304,
+    "last_updated": "2026-08-27T11:33:55.437Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 752123304,
+      "language": null,
+      "last_commit": "2025-02-14T01:22:29Z",
+      "owner": "jmatthiesen",
+      "repo": "dotnet-ai-resources",
+      "stars": 145
+    },
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
     "enhanced_repository": "enhansome/enhansome-dotnet-ai-resources",
     "enhanced_repository_description": null,
