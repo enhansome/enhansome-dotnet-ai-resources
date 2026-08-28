@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 706944893,
                 "language": "C#",
-                "last_commit": "2026-08-27T19:26:01Z",
+                "last_commit": "2026-08-28T17:33:31Z",
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10796
-              }
+                "stars": 10804
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "Azure-Samples",
                 "repo": "azure-search-openai-demo-csharp",
                 "stars": 841
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "dotnet",
                 "repo": "eShopSupport",
                 "stars": 656
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -70,7 +73,8 @@
                 "owner": "LittleLittleCloud",
                 "repo": "Torchsharp-llama",
                 "stars": 14
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "LittleLittleCloud",
                 "repo": "Torchsharp-phi",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -107,7 +112,8 @@
                 "owner": "Azure",
                 "repo": "Vector-Search-AI-Assistant",
                 "stars": 191
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "microsoft",
                 "repo": "AzureDataRetrievalAugmentedGenerationSamples",
                 "stars": 176
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -137,7 +144,8 @@
                 "owner": "Azure",
                 "repo": "Vector-Search-AI-Assistant-MongoDBvCore",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -152,7 +160,8 @@
                 "owner": "bradygaster",
                 "repo": "AugmentR",
                 "stars": 54
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "children": [
@@ -169,7 +178,8 @@
                     "owner": "AzureCosmosDB",
                     "repo": "cosmosdb-nosql-copilot",
                     "stars": 114
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:44:53.325Z"
                 }
               ],
               "description": null,
@@ -196,7 +206,8 @@
                 "owner": "Elumenotion",
                 "repo": "AntRunner",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -220,7 +231,8 @@
                     "owner": "Azure-Samples",
                     "repo": "ai-chat-quickstart-csharp",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:44:53.325Z"
                 }
               ],
               "description": null,
@@ -253,7 +265,8 @@
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3202
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -268,7 +281,8 @@
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3202
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -290,7 +304,8 @@
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
                 "stars": 1400
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -308,11 +323,12 @@
                 "archived": false,
                 "id": 792072603,
                 "language": "C#",
-                "last_commit": "2026-08-27T19:12:21Z",
+                "last_commit": "2026-08-28T20:06:50Z",
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2676
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -333,8 +349,9 @@
                 "last_commit": "2026-08-27T16:58:48Z",
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28506
-              }
+                "stars": 28509
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -349,7 +366,8 @@
                 "owner": "microsoft",
                 "repo": "SemanticKernelCookBook",
                 "stars": 318
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -371,7 +389,8 @@
                 "owner": "tryAGI",
                 "repo": "LangChain",
                 "stars": 1070
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -393,7 +412,8 @@
                 "owner": "redis",
                 "repo": "NRedisStack",
                 "stars": 329
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -408,7 +428,8 @@
                 "owner": "qdrant",
                 "repo": "qdrant-dotnet",
                 "stars": 227
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             },
             {
               "node_type": "item",
@@ -423,7 +444,8 @@
                 "owner": "Unipisa",
                 "repo": "WeaviateNET",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:44:53.325Z"
             }
           ],
           "description": null,
@@ -449,7 +471,8 @@
             "owner": "Azure-Samples",
             "repo": "openai",
             "stars": 1343
-          }
+          },
+          "first_seen": "2026-08-28T20:44:53.325Z"
         },
         {
           "node_type": "item",
@@ -464,14 +487,15 @@
             "owner": "Azure",
             "repo": "azure-functions-openai-extension",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T20:44:53.325Z"
         }
       ],
       "title": "AI Services"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:39:34.720Z",
+    "last_updated": "2026-08-28T20:44:53.325Z",
     "original_repository_info": {
       "archived": false,
       "id": 752123304,
