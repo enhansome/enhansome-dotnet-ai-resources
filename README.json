@@ -21,7 +21,7 @@
                 "open_issues": 117,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10806,
+                "stars": 10812,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -353,7 +353,7 @@
                 "open_issues": 253,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3202,
+                "stars": 3203,
                 "topics": [
                   "dotnet"
                 ]
@@ -376,7 +376,7 @@
                 "open_issues": 253,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3202,
+                "stars": 3203,
                 "topics": [
                   "dotnet"
                 ]
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-27T16:58:48Z",
-                "open_issues": 263,
+                "open_issues": 264,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28511,
+                "stars": 28516,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:57:35.601Z",
+    "last_updated": "2026-08-29T14:13:10.866Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
