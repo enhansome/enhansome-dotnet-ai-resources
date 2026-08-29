@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reference .NET application implementing an eCommerce site",
+                "homepage": null,
                 "id": 706944893,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T17:33:31Z",
+                "open_issues": 117,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10804
+                "stars": 10806,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -28,12 +33,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sample app for the Retrieval-Augmented Generation pattern running in Azure, using Azure Cognitive Search for retrieval and Azure OpenAI large language models to power ChatGPT-style and Q&A experiences. ",
+                "homepage": null,
                 "id": 624102171,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2025-07-29T20:22:37Z",
+                "open_issues": 72,
                 "owner": "Azure-Samples",
                 "repo": "azure-search-openai-demo-csharp",
-                "stars": 841
+                "stars": 841,
+                "topics": [
+                  "ai-azd-templates",
+                  "azd-templates",
+                  "azure",
+                  "chatgpt",
+                  "csharp",
+                  "dotnet",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -44,12 +62,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reference .NET application using AI for a customer support ticketing system",
+                "homepage": null,
                 "id": 794031785,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-05-16T16:27:15Z",
+                "open_issues": 21,
                 "owner": "dotnet",
                 "repo": "eShopSupport",
-                "stars": 656
+                "stars": 656,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -67,12 +90,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implement llama 2/3 using torchsharp",
+                "homepage": null,
                 "id": 746329717,
                 "language": "C#",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-29T18:11:40Z",
+                "open_issues": 2,
                 "owner": "LittleLittleCloud",
                 "repo": "Torchsharp-llama",
-                "stars": 14
+                "stars": 14,
+                "topics": [
+                  "llama2",
+                  "torch",
+                  "torchsharp"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -83,12 +115,23 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Torchsharp port of phi-series model",
+                "homepage": null,
                 "id": 749281112,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-08-22T22:21:53Z",
+                "open_issues": 5,
                 "owner": "LittleLittleCloud",
                 "repo": "Torchsharp-phi",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "ai",
+                  "llm",
+                  "phi",
+                  "slm",
+                  "torchsharp"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -106,12 +149,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Microsoft Official Build Modern AI Apps reference solutions and content. Demonstrate how to build Copilot applications that incorporate Hero Azure Services including Azure OpenAI Service, Azure Container Apps (or AKS) and Azure Cosmos DB for NoSQL with Vector Search.",
+                "homepage": null,
                 "id": 684218540,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-12-01T11:42:50Z",
+                "open_issues": 6,
                 "owner": "Azure",
                 "repo": "Vector-Search-AI-Assistant",
-                "stars": 191
+                "stars": 191,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -122,12 +170,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Samples to demonstrate pathways for Retrieval Augmented Generation (RAG) for Azure Data ",
+                "homepage": null,
                 "id": 654251502,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-10-14T14:56:31Z",
+                "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "AzureDataRetrievalAugmentedGenerationSamples",
-                "stars": 176
+                "stars": 176,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -138,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Microsoft Official Build & Modernize AI Apps reference solution and content for implementing RAG Pattern solutions using vector search with Azure Cosmos DB MongoDB vCore with an AI assistant user experience.",
+                "homepage": null,
                 "id": 707329298,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-04-21T15:33:00Z",
+                "open_issues": 4,
                 "owner": "Azure",
                 "repo": "Vector-Search-AI-Assistant-MongoDBvCore",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -154,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sample showing how to do Retrieval Augmented Generation using .NET Aspire, Semantic Kernel, and OpenAI.",
+                "homepage": null,
                 "id": 727607501,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2024-03-29T22:56:05Z",
+                "open_issues": 3,
                 "owner": "bradygaster",
                 "repo": "AugmentR",
-                "stars": 54
+                "stars": 54,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -172,12 +235,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build a copilot application with Azure OpenAI Service, Azure Cosmos DB & Azure App Service.",
+                    "homepage": null,
                     "id": 814748970,
                     "language": "C#",
+                    "license": "MIT",
                     "last_commit": "2025-10-15T12:06:11Z",
+                    "open_issues": 10,
                     "owner": "AzureCosmosDB",
                     "repo": "cosmosdb-nosql-copilot",
-                    "stars": 114
+                    "stars": 114,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:44:53.325Z"
                 }
@@ -200,12 +268,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ".NET tools for creating and using Open AI and Azure Open AI Assistants",
+                "homepage": null,
                 "id": 852569461,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-01-05T16:45:16Z",
+                "open_issues": 0,
                 "owner": "Elumenotion",
                 "repo": "AntRunner",
-                "stars": 18
+                "stars": 18,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -225,12 +298,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A simple C#/.NET chat application that uses managed identity for Azure OpenAI access. Designed for deployment on Azure Container Apps with the Azure Developer CLI.",
+                    "homepage": null,
                     "id": 859582200,
                     "language": "Bicep",
+                    "license": "MIT",
                     "last_commit": "2024-10-21T13:49:20Z",
+                    "open_issues": 7,
                     "owner": "Azure-Samples",
                     "repo": "ai-chat-quickstart-csharp",
-                    "stars": 12
+                    "stars": 12,
+                    "topics": [
+                      "ai-azd-templates",
+                      "azd-templates",
+                      "azure-container-apps",
+                      "azure-openai",
+                      "csharp",
+                      "dotnet"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:44:53.325Z"
                 }
@@ -259,12 +344,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.",
+                "homepage": null,
                 "id": 30932325,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:14:38Z",
+                "open_issues": 253,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3202
+                "stars": 3202,
+                "topics": [
+                  "dotnet"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -275,12 +367,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.",
+                "homepage": null,
                 "id": 30932325,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:14:38Z",
+                "open_issues": 253,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3202
+                "stars": 3202,
+                "topics": [
+                  "dotnet"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -298,12 +397,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The easiest way to use Ollama in .NET",
+                "homepage": "https://www.nuget.org/packages/OllamaSharp",
                 "id": 705358800,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-24T10:06:58Z",
+                "open_issues": 2,
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
-                "stars": 1400
+                "stars": 1400,
+                "topics": [
+                  "ai",
+                  "gpt",
+                  "ichatclient",
+                  "library",
+                  "llama",
+                  "llamacpp",
+                  "llm",
+                  "localllama",
+                  "microsoft-extensions-ai",
+                  "ollama",
+                  "ollama-api",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -321,12 +438,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official .NET library for the OpenAI API",
+                "homepage": "https://www.nuget.org/packages/OpenAI",
                 "id": 792072603,
                 "language": "C#",
-                "last_commit": "2026-08-28T20:06:50Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T22:13:55Z",
+                "open_issues": 57,
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2676
+                "stars": 2677,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -344,12 +470,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+                "homepage": "https://aka.ms/semantic-kernel",
                 "id": 607289185,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T16:58:48Z",
+                "open_issues": 263,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28509
+                "stars": 28511,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "llm",
+                  "openai",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -360,12 +497,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a Semantic Kernel's book for beginners ",
+                "homepage": null,
                 "id": 743328418,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-08-06T01:19:53Z",
+                "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "SemanticKernelCookBook",
-                "stars": 318
+                "stars": 318,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -383,12 +525,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C# implementation of LangChain. We try to be as close to the original as possible in terms of abstractions, but are open to new entities.",
+                "homepage": "https://tryagi.github.io/LangChain/",
                 "id": 648854280,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-17T21:25:33Z",
+                "open_issues": 51,
                 "owner": "tryAGI",
                 "repo": "LangChain",
-                "stars": 1070
+                "stars": 1070,
+                "topics": [
+                  "ai",
+                  "csharp",
+                  "dotnet",
+                  "langchain",
+                  "langchain-csharp",
+                  "langchain-dotnet",
+                  "llm",
+                  "openai",
+                  "sdk"
+                ]
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -406,12 +563,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Redis Stack .Net client",
+                "homepage": null,
                 "id": 515208425,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-24T12:48:42Z",
+                "open_issues": 5,
                 "owner": "redis",
                 "repo": "NRedisStack",
-                "stars": 329
+                "stars": 329,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -422,12 +584,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Qdrant .Net SDK",
+                "homepage": null,
                 "id": 665462497,
                 "language": "C#",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-04T14:20:02Z",
+                "open_issues": 3,
                 "owner": "qdrant",
                 "repo": "qdrant-dotnet",
-                "stars": 227
+                "stars": 227,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             },
@@ -438,12 +605,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "dotnet core library to use Weaviate Vector DB",
+                "homepage": null,
                 "id": 675423943,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2024-02-18T11:52:31Z",
+                "open_issues": 3,
                 "owner": "Unipisa",
                 "repo": "WeaviateNET",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
             }
@@ -465,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The repository for all Azure OpenAI Samples complementing the OpenAI cookbook. ",
+            "homepage": "https://aka.ms/azure-openai",
             "id": 624506415,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-20T21:59:31Z",
+            "open_issues": 65,
             "owner": "Azure-Samples",
             "repo": "openai",
-            "stars": 1343
+            "stars": 1343,
+            "topics": []
           },
           "first_seen": "2026-08-28T20:44:53.325Z"
         },
@@ -481,12 +658,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extension that adds support for Azure OpenAI/ OpenAI bindings in Azure Functions for LLM (GPT-3.5-Turbo, GPT-4, etc)",
+            "homepage": null,
             "id": 718707177,
             "language": "C#",
+            "license": "MIT",
             "last_commit": "2026-08-17T00:20:42Z",
+            "open_issues": 14,
             "owner": "Azure",
             "repo": "azure-functions-openai-extension",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "azure-functions",
+              "azure-functions-extension",
+              "azure-openai",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T20:44:53.325Z"
         }
@@ -495,15 +682,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:44:53.325Z",
+    "last_updated": "2026-08-29T04:57:35.601Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of resources available to .NET developers working with AI.",
+      "homepage": null,
       "id": 752123304,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-02-14T01:22:29Z",
+      "open_issues": 3,
       "owner": "jmatthiesen",
       "repo": "dotnet-ai-resources",
-      "stars": 145
+      "stars": 145,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "csharp",
+        "dotnet"
+      ]
     },
     "original_repository_sha": "dbeb121a430bbcce2cac9a6e742ed1d01fb7905d",
     "enhanced_repository": "enhansome/enhansome-dotnet-ai-resources",
