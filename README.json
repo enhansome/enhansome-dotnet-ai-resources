@@ -21,7 +21,7 @@
                 "open_issues": 117,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10812,
+                "stars": 10815,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -353,7 +353,7 @@
                 "open_issues": 253,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3203,
+                "stars": 3204,
                 "topics": [
                   "dotnet"
                 ]
@@ -376,7 +376,7 @@
                 "open_issues": 253,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3203,
+                "stars": 3204,
                 "topics": [
                   "dotnet"
                 ]
@@ -447,7 +447,7 @@
                 "open_issues": 57,
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2677,
+                "stars": 2679,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-27T16:58:48Z",
-                "open_issues": 264,
+                "open_issues": 265,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28516,
+                "stars": 28518,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -530,8 +530,8 @@
                 "id": 648854280,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-07-17T21:25:33Z",
-                "open_issues": 51,
+                "last_commit": "2026-08-30T07:35:44Z",
+                "open_issues": 49,
                 "owner": "tryAGI",
                 "repo": "LangChain",
                 "stars": 1070,
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:13:10.866Z",
+    "last_updated": "2026-08-30T14:18:58.167Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
