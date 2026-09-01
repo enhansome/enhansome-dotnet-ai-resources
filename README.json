@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10818,
+                "stars": 10819,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -349,11 +349,11 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T16:31:59Z",
+                "last_commit": "2026-09-01T09:09:21Z",
                 "open_issues": 257,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3203,
+                "stars": 3204,
                 "topics": [
                   "dotnet"
                 ]
@@ -372,11 +372,11 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T16:31:59Z",
+                "last_commit": "2026-09-01T09:09:21Z",
                 "open_issues": 257,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3203,
+                "stars": 3204,
                 "topics": [
                   "dotnet"
                 ]
@@ -443,11 +443,11 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T09:12:23Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-01T00:32:25Z",
+                "open_issues": 59,
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2678,
+                "stars": 2679,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -475,11 +475,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T15:36:31Z",
-                "open_issues": 262,
+                "last_commit": "2026-09-01T13:47:38Z",
+                "open_issues": 264,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28517,
+                "stars": 28519,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -506,7 +506,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "SemanticKernelCookBook",
-                "stars": 318,
+                "stars": 319,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -530,8 +530,8 @@
                 "id": 648854280,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T11:29:54Z",
-                "open_issues": 49,
+                "last_commit": "2026-08-31T20:25:19Z",
+                "open_issues": 48,
                 "owner": "tryAGI",
                 "repo": "LangChain",
                 "stars": 1070,
@@ -569,7 +569,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-08-24T12:48:42Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "redis",
                 "repo": "NRedisStack",
                 "stars": 329,
@@ -589,7 +589,7 @@
                 "id": 665462497,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-04T14:20:02Z",
+                "last_commit": "2026-09-01T12:52:09Z",
                 "open_issues": 3,
                 "owner": "qdrant",
                 "repo": "qdrant-dotnet",
@@ -663,7 +663,7 @@
             "id": 718707177,
             "language": "C#",
             "license": "MIT",
-            "last_commit": "2026-08-17T00:20:42Z",
+            "last_commit": "2026-09-01T01:35:20Z",
             "open_issues": 14,
             "owner": "Azure",
             "repo": "azure-functions-openai-extension",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T16:48:22.646Z",
+    "last_updated": "2026-09-01T13:59:05.433Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
