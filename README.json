@@ -350,10 +350,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-03T12:50:35Z",
-                "open_issues": 255,
+                "open_issues": 257,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3205,
+                "stars": 3204,
                 "topics": [
                   "dotnet"
                 ]
@@ -373,10 +373,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-03T12:50:35Z",
-                "open_issues": 255,
+                "open_issues": 257,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3205,
+                "stars": 3204,
                 "topics": [
                   "dotnet"
                 ]
@@ -403,7 +403,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-07-24T10:06:58Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
                 "stars": 1402,
@@ -443,8 +443,8 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-03T01:39:35Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-04T08:14:45Z",
+                "open_issues": 62,
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2681,
@@ -475,11 +475,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-03T10:53:05Z",
-                "open_issues": 271,
+                "last_commit": "2026-09-04T10:30:54Z",
+                "open_issues": 276,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28527,
+                "stars": 28528,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -589,8 +589,8 @@
                 "id": 665462497,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T12:52:09Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-04T12:35:02Z",
+                "open_issues": 4,
                 "owner": "qdrant",
                 "repo": "qdrant-dotnet",
                 "stars": 227,
@@ -646,7 +646,7 @@
             "open_issues": 65,
             "owner": "Azure-Samples",
             "repo": "openai",
-            "stars": 1344,
+            "stars": 1343,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:53.325Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T13:19:59.013Z",
+    "last_updated": "2026-09-04T13:13:50.960Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
