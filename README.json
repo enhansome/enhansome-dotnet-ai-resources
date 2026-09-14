@@ -17,11 +17,11 @@
                 "id": 706944893,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-08-31T01:40:02Z",
-                "open_issues": 124,
+                "last_commit": "2026-09-14T01:29:36Z",
+                "open_issues": 122,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10861,
+                "stars": 10865,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -158,7 +158,7 @@
                 "open_issues": 6,
                 "owner": "Azure",
                 "repo": "Vector-Search-AI-Assistant",
-                "stars": 191,
+                "stars": 190,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -179,7 +179,7 @@
                 "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "AzureDataRetrievalAugmentedGenerationSamples",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -244,7 +244,7 @@
                     "open_issues": 10,
                     "owner": "AzureCosmosDB",
                     "repo": "cosmosdb-nosql-copilot",
-                    "stars": 114,
+                    "stars": 113,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:44:53.325Z"
@@ -349,8 +349,8 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T17:17:59Z",
-                "open_issues": 261,
+                "last_commit": "2026-09-14T10:30:51Z",
+                "open_issues": 267,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3209,
@@ -372,8 +372,8 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T17:17:59Z",
-                "open_issues": 261,
+                "last_commit": "2026-09-14T10:30:51Z",
+                "open_issues": 267,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3209,
@@ -443,7 +443,7 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-12T00:24:41Z",
+                "last_commit": "2026-09-14T08:11:22Z",
                 "open_issues": 65,
                 "owner": "openai",
                 "repo": "openai-dotnet",
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-11T06:58:37Z",
-                "open_issues": 292,
+                "open_issues": 298,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28554,
+                "stars": 28556,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -534,7 +534,7 @@
                 "open_issues": 48,
                 "owner": "tryAGI",
                 "repo": "LangChain",
-                "stars": 1073,
+                "stars": 1074,
                 "topics": [
                   "ai",
                   "csharp",
@@ -568,7 +568,7 @@
                 "id": 515208425,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-11T08:31:30Z",
+                "last_commit": "2026-09-14T15:19:02Z",
                 "open_issues": 3,
                 "owner": "redis",
                 "repo": "NRedisStack",
@@ -667,7 +667,7 @@
             "open_issues": 13,
             "owner": "Azure",
             "repo": "azure-functions-openai-extension",
-            "stars": 101,
+            "stars": 100,
             "topics": [
               "azure-functions",
               "azure-functions-extension",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T13:42:08.590Z",
+    "last_updated": "2026-09-14T15:44:24.747Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
