@@ -18,10 +18,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-14T01:29:36Z",
-                "open_issues": 122,
+                "open_issues": 123,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10865,
+                "stars": 10869,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -353,7 +353,7 @@
                 "open_issues": 267,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3209,
+                "stars": 3210,
                 "topics": [
                   "dotnet"
                 ]
@@ -376,7 +376,7 @@
                 "open_issues": 267,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3209,
+                "stars": 3210,
                 "topics": [
                   "dotnet"
                 ]
@@ -443,11 +443,11 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-14T08:11:22Z",
+                "last_commit": "2026-09-15T02:27:46Z",
                 "open_issues": 65,
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2691,
+                "stars": 2692,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -479,7 +479,7 @@
                 "open_issues": 298,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28556,
+                "stars": 28562,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -506,7 +506,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "SemanticKernelCookBook",
-                "stars": 319,
+                "stars": 320,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -568,7 +568,7 @@
                 "id": 515208425,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-14T15:19:02Z",
+                "last_commit": "2026-09-15T14:09:59Z",
                 "open_issues": 3,
                 "owner": "redis",
                 "repo": "NRedisStack",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T15:44:24.747Z",
+    "last_updated": "2026-09-15T14:12:41.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
