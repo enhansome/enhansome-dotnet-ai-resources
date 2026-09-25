@@ -21,7 +21,7 @@
                 "open_issues": 125,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10893,
+                "stars": 10901,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -349,11 +349,11 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-23T19:49:16Z",
-                "open_issues": 279,
+                "last_commit": "2026-09-25T10:29:08Z",
+                "open_issues": 277,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3213,
+                "stars": 3215,
                 "topics": [
                   "dotnet"
                 ]
@@ -372,11 +372,11 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-23T19:49:16Z",
-                "open_issues": 279,
+                "last_commit": "2026-09-25T10:29:08Z",
+                "open_issues": 277,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3213,
+                "stars": 3215,
                 "topics": [
                   "dotnet"
                 ]
@@ -406,7 +406,7 @@
                 "open_issues": 3,
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
-                "stars": 1404,
+                "stars": 1405,
                 "topics": [
                   "ai",
                   "gpt",
@@ -443,11 +443,11 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-24T07:46:03Z",
+                "last_commit": "2026-09-24T20:36:13Z",
                 "open_issues": 60,
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2695,
+                "stars": 2696,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-19T01:54:57Z",
-                "open_issues": 320,
+                "open_issues": 328,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28597,
+                "stars": 28604,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -506,7 +506,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "SemanticKernelCookBook",
-                "stars": 319,
+                "stars": 318,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -530,8 +530,8 @@
                 "id": 648854280,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-21T03:53:01Z",
-                "open_issues": 49,
+                "last_commit": "2026-09-25T05:07:57Z",
+                "open_issues": 50,
                 "owner": "tryAGI",
                 "repo": "LangChain",
                 "stars": 1076,
@@ -646,7 +646,7 @@
             "open_issues": 65,
             "owner": "Azure-Samples",
             "repo": "openai",
-            "stars": 1349,
+            "stars": 1350,
             "topics": []
           },
           "first_seen": "2026-08-28T20:44:53.325Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:05:03.497Z",
+    "last_updated": "2026-09-25T14:28:17.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
