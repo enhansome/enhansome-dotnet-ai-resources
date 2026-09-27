@@ -21,7 +21,7 @@
                 "open_issues": 126,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10905,
+                "stars": 10910,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -244,7 +244,7 @@
                     "open_issues": 10,
                     "owner": "AzureCosmosDB",
                     "repo": "cosmosdb-nosql-copilot",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:44:53.325Z"
@@ -350,10 +350,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-25T19:07:40Z",
-                "open_issues": 276,
+                "open_issues": 278,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3216,
+                "stars": 3215,
                 "topics": [
                   "dotnet"
                 ]
@@ -373,10 +373,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-25T19:07:40Z",
-                "open_issues": 276,
+                "open_issues": 278,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3216,
+                "stars": 3215,
                 "topics": [
                   "dotnet"
                 ]
@@ -447,7 +447,7 @@
                 "open_issues": 59,
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2696,
+                "stars": 2698,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -476,7 +476,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-19T01:54:57Z",
-                "open_issues": 332,
+                "open_issues": 338,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
                 "stars": 28607,
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:39:09.617Z",
+    "last_updated": "2026-09-27T14:35:34.535Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
