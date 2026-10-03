@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10926,
+                "stars": 10930,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -42,7 +42,7 @@
                 "open_issues": 73,
                 "owner": "Azure-Samples",
                 "repo": "azure-search-openai-demo-csharp",
-                "stars": 842,
+                "stars": 843,
                 "topics": [
                   "ai-azd-templates",
                   "azd-templates",
@@ -231,7 +231,7 @@
                 {
                   "node_type": "item",
                   "title": "Build a Copilot app using Azure Cosmos DB, Azure OpenAI Service and Azure App Service",
-                  "description": null,
+                  "description": "AzureCosmosDB/cosmosdb-nosql-copilot",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -244,7 +244,7 @@
                     "open_issues": 11,
                     "owner": "AzureCosmosDB",
                     "repo": "cosmosdb-nosql-copilot",
-                    "stars": 114,
+                    "stars": 113,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:44:53.325Z"
@@ -340,7 +340,7 @@
             {
               "node_type": "item",
               "title": "Microsoft.Extensions.AI Source on GitHub",
-              "description": null,
+              "description": "dotnet/extensions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:15:41Z",
+                "last_commit": "2026-10-02T18:37:02Z",
                 "open_issues": 279,
                 "owner": "dotnet",
                 "repo": "extensions",
@@ -363,7 +363,7 @@
             {
               "node_type": "item",
               "title": "Samples for Microsoft.Extensions.AI",
-              "description": null,
+              "description": "dotnet/extensions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -372,7 +372,7 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T15:15:41Z",
+                "last_commit": "2026-10-02T18:37:02Z",
                 "open_issues": 279,
                 "owner": "dotnet",
                 "repo": "extensions",
@@ -443,8 +443,8 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-02T06:35:25Z",
-                "open_issues": 64,
+                "last_commit": "2026-10-02T18:41:05Z",
+                "open_issues": 63,
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2703,
@@ -466,7 +466,7 @@
             {
               "node_type": "item",
               "title": "Semantic Kernel Source on GitHub",
-              "description": null,
+              "description": "microsoft/semantic-kernel",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -476,7 +476,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:26:46Z",
-                "open_issues": 329,
+                "open_issues": 333,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
                 "stars": 28620,
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:28:54.461Z",
+    "last_updated": "2026-10-03T04:44:53.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
