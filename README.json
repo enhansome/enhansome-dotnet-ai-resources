@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10930,
+                "stars": 10932,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -406,7 +406,7 @@
                 "open_issues": 1,
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
-                "stars": 1404,
+                "stars": 1405,
                 "topics": [
                   "ai",
                   "gpt",
@@ -476,7 +476,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:26:46Z",
-                "open_issues": 333,
+                "open_issues": 335,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
                 "stars": 28620,
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:44:53.033Z",
+    "last_updated": "2026-10-03T14:10:15.123Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
