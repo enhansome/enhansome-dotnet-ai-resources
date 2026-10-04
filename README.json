@@ -21,7 +21,7 @@
                 "open_issues": 123,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10932,
+                "stars": 10934,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -350,7 +350,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:37:02Z",
-                "open_issues": 279,
+                "open_issues": 281,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3219,
@@ -373,7 +373,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:37:02Z",
-                "open_issues": 279,
+                "open_issues": 281,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3219,
@@ -444,7 +444,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-02T18:41:05Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2703,
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-10-01T18:26:46Z",
-                "open_issues": 335,
+                "open_issues": 336,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28620,
+                "stars": 28625,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:10:15.123Z",
+    "last_updated": "2026-10-04T14:40:30.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
