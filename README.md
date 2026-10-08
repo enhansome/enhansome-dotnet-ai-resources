@@ -4,7 +4,7 @@
 
 Interested in working with AI in .NET? Here's a collection of samples, tutorials, SDKs, and videos to help you get started and go deeper. Topics covered currently include generative artificial intelligence (GenAI) and large language models (LLMs).
 
-Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,589 | 🐛 136 | 📅 2024-05-21, [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,306 | 🐛 0 | 📅 2026-04-09, [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,537 | 🐛 22 | 🌐 Python | 📅 2026-09-30, [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,718 | 🐛 826 | 📅 2026-10-03 and [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,645 | 🐛 173 | 📅 2026-03-26.
+Inspired by [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ⭐ 47,593 | 🐛 135 | 📅 2024-05-21, [ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks) ⭐ 2,307 | 🐛 0 | 📅 2026-04-09, [awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) ⭐ 74,549 | 🐛 22 | 🌐 Python | 📅 2026-10-07, [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ⭐ 12,722 | 🐛 831 | 📅 2026-10-03 and [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,648 | 🐛 176 | 📅 2026-03-26.
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard pages first](CONTRIBUTING.md). If you find issues with the content/links here, you can also [report them](https://github.com/jmatthiesen/dotnet-ai-resources/issues). If you have general feedback, or have a request for a specific sample, feel free to ask in the [Discussions](https://github.com/jmatthiesen/dotnet-ai-resources/discussions) section as well.
 
@@ -57,8 +57,8 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Reference Applications
 
-* [eShop Reference Application](https://github.com/dotnet/eShop/) ⭐ 10,938 | 🐛 124 | 🌐 C# | 📅 2026-10-05 - An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.
-* [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) ⭐ 843 | 🐛 73 | 🌐 C# | 📅 2025-07-29 - [Documentation](https://learn.microsoft.com/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces) | [Announcement Post](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET)
+* [eShop Reference Application](https://github.com/dotnet/eShop/) ⭐ 10,941 | 🐛 123 | 🌐 C# | 📅 2026-10-05 - An eCommerce sample application built on .NET 8, .NET Aspire, and using Semantic Kernel to demonstrate an AI chat bot.
+* [Azure Search with OpenAI - C# Sample](https://github.com/Azure-Samples/azure-search-openai-demo-csharp/) ⭐ 844 | 🐛 73 | 🌐 C# | 📅 2025-07-29 - [Documentation](https://learn.microsoft.com/dotnet/azure/ai/get-started-app-chat-template?tabs=github-codespaces) | [Announcement Post](https://devblogs.microsoft.com/dotnet/transform-business-smart-dotnet-apps-azure-chatgpt/) ChatGPT + Enterprise data with Azure OpenAI and Cognitive Search (.NET)
 * [eShopSupport](https://github.com/dotnet/eShopSupport) ⭐ 663 | 🐛 21 | 🌐 JavaScript | 📅 2025-05-16 - A sample customer support application for the eShop eCommerce solution. This sample demonstrates a variety of AI features: data generation, sentiment analysis, entity extraction, summarization, classification, as well as chat interactions.
 
 ## Working with Local Models
@@ -118,22 +118,22 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ## Microsoft.Extensions.AI
 
-* [Microsoft.Extensions.AI Source on GitHub](https://github.com/dotnet/extensions/tree/main/src/Libraries/Microsoft.Extensions.AI) ⭐ 3,219 | 🐛 284 | 🌐 C# | 📅 2026-10-07
-* [Samples for Microsoft.Extensions.AI](https://github.com/dotnet/extensions/tree/main/src/Libraries/Microsoft.Extensions.AI) ⭐ 3,219 | 🐛 284 | 🌐 C# | 📅 2026-10-07
+* [Microsoft.Extensions.AI Source on GitHub](https://github.com/dotnet/extensions/tree/main/src/Libraries/Microsoft.Extensions.AI) ⭐ 3,220 | 🐛 286 | 🌐 C# | 📅 2026-10-08
+* [Samples for Microsoft.Extensions.AI](https://github.com/dotnet/extensions/tree/main/src/Libraries/Microsoft.Extensions.AI) ⭐ 3,220 | 🐛 286 | 🌐 C# | 📅 2026-10-08
 * [Introducing Microsoft.Extensions.AI preview](https://devblogs.microsoft.com/dotnet/introducing-microsoft-extensions-ai-preview/) - A set of core .NET libraries developed in collaboration with developers across the .NET ecosystem, including Semantic Kernel. These libraries provide a unified layer of C# abstractions for interacting with AI services, such as small and large language models (SLMs and LLMs), embeddings, and middleware.
 
 ## OllamaSharp
 
-* [OllamaSharp source and docs](https://github.com/awaescher/OllamaSharp) ⭐ 1,407 | 🐛 1 | 🌐 C# | 📅 2026-09-30 - A library for working with [Ollama](https://www.ollama.com) to run AI models locally.
+* [OllamaSharp source and docs](https://github.com/awaescher/OllamaSharp) ⭐ 1,408 | 🐛 1 | 🌐 C# | 📅 2026-09-30 - A library for working with [Ollama](https://www.ollama.com) to run AI models locally.
 
 ## OpenAI SDK
 
-* [OpenAI SDK for .NET on GitHub](https://github.com/openai/openai-dotnet) ⭐ 2,706 | 🐛 80 | 🌐 C# | 📅 2026-10-07 - Includes the source, documentation, and samples for working with the library.
+* [OpenAI SDK for .NET on GitHub](https://github.com/openai/openai-dotnet) ⭐ 2,707 | 🐛 80 | 🌐 C# | 📅 2026-10-07 - Includes the source, documentation, and samples for working with the library.
 * [Announcing the OpenAI Library for .NET](https://devblogs.microsoft.com/dotnet/announcing-the-stable-release-of-the-official-open-ai-library-for-dotnet/) - Announcement blog post shared on the .NET blog.
 
 ## Semantic Kernel
 
-* [Semantic Kernel Source on GitHub](https://github.com/microsoft/semantic-kernel) ⭐ 28,629 | 🐛 349 | 🌐 C# | 📅 2026-10-07
+* [Semantic Kernel Source on GitHub](https://github.com/microsoft/semantic-kernel) ⭐ 28,635 | 🐛 349 | 🌐 C# | 📅 2026-10-07
 * [Semantic Kernel Cookbook](https://github.com/microsoft/SemanticKernelCookBook) ⭐ 319 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2024-08-06 - A set of examples for achieving common tasks using Semantic Kernel, with Polyglot Notebooks available for .NET developers.
 * [Overview - Semantic Kernel](https://learn.microsoft.com/semantic-kernel/overview/) - A library built by Microsoft that lets you "build agents that can call your existing code." Provides native support for working in .NET.
 
@@ -163,4 +163,4 @@ Note: This list is currently hosted on GitHub by me, [Jordan Matthiesen](https:/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
