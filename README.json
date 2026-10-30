@@ -21,7 +21,7 @@
                 "open_issues": 129,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 10983,
+                "stars": 10984,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -349,7 +349,7 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T17:20:10Z",
+                "last_commit": "2026-10-30T06:35:05Z",
                 "open_issues": 293,
                 "owner": "dotnet",
                 "repo": "extensions",
@@ -372,7 +372,7 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T17:20:10Z",
+                "last_commit": "2026-10-30T06:35:05Z",
                 "open_issues": 293,
                 "owner": "dotnet",
                 "repo": "extensions",
@@ -443,11 +443,11 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-29T09:05:22Z",
+                "last_commit": "2026-10-30T08:14:37Z",
                 "open_issues": 88,
                 "owner": "openai",
                 "repo": "openai-dotnet",
-                "stars": 2717,
+                "stars": 2718,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -475,11 +475,11 @@
                 "id": 607289185,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-10-28T14:09:19Z",
-                "open_issues": 325,
+                "last_commit": "2026-10-30T13:33:50Z",
+                "open_issues": 337,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28716,
+                "stars": 28721,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T15:54:44.229Z",
+    "last_updated": "2026-10-30T15:39:29.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
