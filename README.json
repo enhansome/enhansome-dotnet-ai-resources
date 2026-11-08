@@ -21,7 +21,7 @@
                 "open_issues": 129,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 11004,
+                "stars": 11006,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -42,7 +42,7 @@
                 "open_issues": 72,
                 "owner": "Azure-Samples",
                 "repo": "azure-search-openai-demo-csharp",
-                "stars": 844,
+                "stars": 845,
                 "topics": [
                   "ai-azd-templates",
                   "azd-templates",
@@ -350,7 +350,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-06T15:44:30Z",
-                "open_issues": 304,
+                "open_issues": 307,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3272,
@@ -373,7 +373,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-06T15:44:30Z",
-                "open_issues": 304,
+                "open_issues": 307,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3272,
@@ -406,7 +406,7 @@
                 "open_issues": 0,
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
-                "stars": 1411,
+                "stars": 1413,
                 "topics": [
                   "ai",
                   "gpt",
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-07T00:59:55Z",
-                "open_issues": 313,
+                "open_issues": 321,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28743,
+                "stars": 28747,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -506,7 +506,7 @@
                 "open_issues": 4,
                 "owner": "microsoft",
                 "repo": "SemanticKernelCookBook",
-                "stars": 320,
+                "stars": 321,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T15:30:00.322Z",
+    "last_updated": "2026-11-08T15:50:18.246Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
