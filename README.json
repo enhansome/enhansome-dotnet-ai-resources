@@ -18,10 +18,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-09T01:29:30Z",
-                "open_issues": 129,
+                "open_issues": 130,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 11009,
+                "stars": 11013,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -179,7 +179,7 @@
                 "open_issues": 14,
                 "owner": "microsoft",
                 "repo": "AzureDataRetrievalAugmentedGenerationSamples",
-                "stars": 176,
+                "stars": 177,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -349,11 +349,11 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-10T11:56:33Z",
-                "open_issues": 305,
+                "last_commit": "2026-11-11T15:03:55Z",
+                "open_issues": 309,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3274,
+                "stars": 3276,
                 "topics": [
                   "dotnet"
                 ]
@@ -372,11 +372,11 @@
                 "id": 30932325,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-10T11:56:33Z",
-                "open_issues": 305,
+                "last_commit": "2026-11-11T15:03:55Z",
+                "open_issues": 309,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3274,
+                "stars": 3276,
                 "topics": [
                   "dotnet"
                 ]
@@ -406,7 +406,7 @@
                 "open_issues": 1,
                 "owner": "awaescher",
                 "repo": "OllamaSharp",
-                "stars": 1414,
+                "stars": 1415,
                 "topics": [
                   "ai",
                   "gpt",
@@ -443,7 +443,7 @@
                 "id": 792072603,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-10T16:50:26Z",
+                "last_commit": "2026-11-11T06:29:29Z",
                 "open_issues": 86,
                 "owner": "openai",
                 "repo": "openai-dotnet",
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-10T16:48:05Z",
-                "open_issues": 339,
+                "open_issues": 344,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28752,
+                "stars": 28754,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -568,8 +568,8 @@
                 "id": 515208425,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-11-10T10:32:52Z",
-                "open_issues": 6,
+                "last_commit": "2026-11-10T19:16:17Z",
+                "open_issues": 8,
                 "owner": "redis",
                 "repo": "NRedisStack",
                 "stars": 332,
@@ -593,7 +593,7 @@
                 "open_issues": 4,
                 "owner": "qdrant",
                 "repo": "qdrant-dotnet",
-                "stars": 231,
+                "stars": 232,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T16:50:46.038Z",
+    "last_updated": "2026-11-11T16:56:37.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
