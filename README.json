@@ -21,7 +21,7 @@
                 "open_issues": 131,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 11021,
+                "stars": 11022,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -175,8 +175,8 @@
                 "id": 654251502,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2025-10-14T14:56:31Z",
-                "open_issues": 14,
+                "last_commit": "2026-11-13T20:52:23Z",
+                "open_issues": 13,
                 "owner": "microsoft",
                 "repo": "AzureDataRetrievalAugmentedGenerationSamples",
                 "stars": 177,
@@ -350,7 +350,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-12T12:50:09Z",
-                "open_issues": 314,
+                "open_issues": 315,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3278,
@@ -373,7 +373,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-12T12:50:09Z",
-                "open_issues": 314,
+                "open_issues": 315,
                 "owner": "dotnet",
                 "repo": "extensions",
                 "stars": 3278,
@@ -444,7 +444,7 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-12T22:45:39Z",
-                "open_issues": 92,
+                "open_issues": 91,
                 "owner": "openai",
                 "repo": "openai-dotnet",
                 "stars": 2719,
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-13T16:16:44Z",
-                "open_issues": 344,
+                "open_issues": 343,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28763,
+                "stars": 28762,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T16:59:28.258Z",
+    "last_updated": "2026-11-14T15:38:00.000Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
@@ -694,7 +694,7 @@
       "open_issues": 3,
       "owner": "jmatthiesen",
       "repo": "dotnet-ai-resources",
-      "stars": 144,
+      "stars": 145,
       "topics": [
         "awesome",
         "awesome-list",
