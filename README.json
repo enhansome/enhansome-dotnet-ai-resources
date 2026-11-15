@@ -21,7 +21,7 @@
                 "open_issues": 131,
                 "owner": "dotnet",
                 "repo": "eShop",
-                "stars": 11022,
+                "stars": 11023,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -71,7 +71,7 @@
                 "open_issues": 21,
                 "owner": "dotnet",
                 "repo": "eShopSupport",
-                "stars": 665,
+                "stars": 666,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -353,7 +353,7 @@
                 "open_issues": 315,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3278,
+                "stars": 3279,
                 "topics": [
                   "dotnet"
                 ]
@@ -376,7 +376,7 @@
                 "open_issues": 315,
                 "owner": "dotnet",
                 "repo": "extensions",
-                "stars": 3278,
+                "stars": 3279,
                 "topics": [
                   "dotnet"
                 ]
@@ -476,10 +476,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-11-13T16:16:44Z",
-                "open_issues": 343,
+                "open_issues": 347,
                 "owner": "microsoft",
                 "repo": "semantic-kernel",
-                "stars": 28762,
+                "stars": 28771,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -572,7 +572,7 @@
                 "open_issues": 10,
                 "owner": "redis",
                 "repo": "NRedisStack",
-                "stars": 332,
+                "stars": 331,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:44:53.325Z"
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T15:38:00.000Z",
+    "last_updated": "2026-11-15T16:07:36.942Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of resources available to .NET developers working with AI.",
